@@ -15,10 +15,11 @@ Design: #
 
 ## Project features
 
--   Github pages
--   fixed width container
--   header: logo + nav
--   jpg images
+-   Github pages (multi-page)
+-   HTML form
+-   CSS background images
+-   CSS position absolute
+-   CSS blur effect
 
 ## Authors
 
