@@ -8,7 +8,7 @@ body * {
 
 body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #4E3B93;
+    background-color: #8396d4;
 }
 
 .container {
@@ -21,8 +21,12 @@ body {
     width: 40%;
     float: left;
     padding: 40px;
-    background-color: #00809c;
-    color: white;
+    background-color: #E12782;
+    background-image: url(../img/gardiens.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    color: #fff;
 }
 
 .main-title {
@@ -37,12 +41,12 @@ body {
 }
 
 .bottom-links > .link {
-    color: white;
+    color: #fff;
 }
 
 .right-column {
     width: 60%;
     float: left;
     padding: 60px;
-    background-color: white;
+    background-color: #fff;
 }
