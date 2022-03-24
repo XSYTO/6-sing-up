@@ -29,6 +29,10 @@
     padding-bottom: 5px;
 }
 
+.form > .form-row > .input:focus {
+    outline: none;
+}
+
 .form span {
     line-height: 40px;
     margin-left: 10px;
