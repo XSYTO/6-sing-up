@@ -11,6 +11,11 @@ body {
     background-color: #8396d4;
     height: 100vh;
     position: relative;
+    background-image: url(../img/gardier.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    backdrop-filter: blur(2rem);
 }
 
 .container {
